@@ -13,7 +13,7 @@
 - Handles variable argument lists using the stdarg.h library.
 
 ## Return value
-Returns the lenght of the line that the function writes.
+- Returns the lenght of the line that the function writes.
 
 ## Function prototype
 ```
