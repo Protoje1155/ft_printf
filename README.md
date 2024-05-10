@@ -10,12 +10,15 @@
 
 ## Features
 - Supports conversion specifiers for integers (d, i), strings (s), characters (c), and hexadecimal (x, X) formats.  
-- Handles variable argument lists using the stdarg.h library.  
+- Handles variable argument lists using the stdarg.h library.
 
-## Implementation Details
-- **Parsing:** Input format strings are parsed to identify conversion specifiers.  
-- **Handling Specifiers:** Each conversion specifier is processed according to the provided data type and formatting options.  
-- **Printing:** The formatted output is printed to the standard output stream.
+## Return value
+Returns the lenght of the line that the function writes.
+
+## Function prototype
+```
+int ft_printf(const char *s, ...);
+```
 
 ## Usage
 To use the ft_printf library in your projects, follow these steps:
