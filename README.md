@@ -1,7 +1,6 @@
 # ft_printf Project
 ## Description
-- The ft_printf library is a fundamental project within the 42 curriculum.   
-- It involves the implementation of a function that mimics the behavior of the standard printf function from the C library.  
+- The ft_printf project involves the implementation of a function that mimics the behavior of the standard printf function from the C library.  
 - This project aims to deepen understanding of variable arguments in C and improve proficiency in parsing input, and output formatting.  
 
 ## Objective
