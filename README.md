@@ -36,6 +36,9 @@ cd ft_printf
 make
 ```
 4. Include the ft_printf.h header file in your source code.
+```
+#include "ft_printf.h"
+```
 5. Link your program with the libftprintf.a library during compilation:
 ```
 gcc -o my_program my_program.c -L. -lftprintf
